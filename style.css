@@ -3,7 +3,7 @@
             
             .navbar{
             list-style: none;
-            background-color: black;
+            background-color: white;
             overflow: hidden;
             padding: 0;
             }  
@@ -45,4 +45,8 @@
             
             .active{
                 background-color: blue;
+            }
+            
+            .Home{
+                color: black;
             }
