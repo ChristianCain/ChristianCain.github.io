@@ -3,7 +3,7 @@
             
             .navbar{
             list-style: none;
-            background-color: black;
+            background-color: gray;
             overflow: hidden;
             padding: 0;
             }  
@@ -17,12 +17,13 @@
                 display: inline-block;
                 
             }
+                
             .navbar li{
                 float: left;
             }
             
             .navbar li:hover{
-                background-color:pink;
+                background-color: blanchedalmond;
             }
             
             .dropdown-content{
@@ -46,5 +47,11 @@
             .active{
                 background-color: blue;
             }
+            
+            .fontnone{
+                font-style: none;
+            }
+            
+            
             
            
