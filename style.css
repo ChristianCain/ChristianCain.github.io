@@ -1,31 +1,31 @@
-            
-            
-            
+
+
+
             .navbar{
             list-style: none;
             background-color: gray;
             overflow: hidden;
             padding: 0;
-            }  
-            
-            
+            }
+
+
             .navbar a, .dropdown div{
                 text-decoration: none;
                 color: white;
                 font-size: 24px;
                 padding: 16px;
                 display: inline-block;
-                
+
             }
-                
+
             .navbar li{
                 float: left;
             }
-            
+
             .navbar li:hover{
                 background-color: blanchedalmond;
             }
-            
+
             .dropdown-content{
                 list-style: none;
                 padding: 0;
@@ -33,25 +33,28 @@
                 position: absolute;
                 z-index: 1;
                 background-color: black;
-                
+
             }
-            
+
             .dropdown-content li{
                 float: none;
             }
-            
+
             .dropdown:hover .dropdown-content{
                 display: block;
             }
-            
+
             .active{
                 background-color: blue;
             }
-            
+
             .fontnone{
                 font-style: none;
             }
-            
-            
-            
-           
+
+            .spacing{
+                padding: 0px;
+            }
+
+
+
