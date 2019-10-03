@@ -6,6 +6,7 @@
             background-color: white;
             overflow: hidden;
             padding: 0;
+            text-size-adjust: 200%;
             }
 
 
@@ -54,6 +55,7 @@
 
             .spacing{
                 padding: 0px;
+                overflow: hidden;
             }
 
 
